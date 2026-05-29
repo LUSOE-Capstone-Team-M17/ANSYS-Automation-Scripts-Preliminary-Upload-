@@ -1,0 +1,130 @@
+
+Mon Feb 23 12:34:02 2026 - Optimizer - I'm awake and ready to optimize!
+Mon Feb 23 12:34:02 2026 - Optimizer - No existing steps detected.
+Mon Feb 23 12:34:02 2026 - Optimizer - Starting factorial design generation...
+Mon Feb 23 12:34:02 2026 - Optimizer - Factorial design generated and published. Waiting for Ansys...
+Mon Feb 23 14:58:50 2026 - Ansys - I'm awake and ready to analyze!
+Mon Feb 23 14:58:50 2026 - Ansys - Detecting a factorial design. Buckle up, this may take a while...
+Mon Feb 23 14:58:50 2026 - Ansys - Received step #1, beginning the analysis.
+Mon Feb 23 14:58:50 2026 - Ansys - Solving step #1.
+Mon Feb 23 14:58:51 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 211, Density = 7850.
+Mon Feb 23 15:22:08 2026 - Ansys - Solved! Results are published in the home folder.
+Mon Feb 23 15:22:08 2026 - Ansys - Solving step #2.
+Mon Feb 23 15:22:09 2026 - Ansys - Set to parameters: Damping Ratio = 0.0015, Elastic Modulus = 211, Density = 7850.
+Mon Feb 23 15:24:43 2026 - Ansys - Solved! Results are published in the home folder.
+Mon Feb 23 15:24:43 2026 - Ansys - Solving step #3.
+Mon Feb 23 15:24:43 2026 - Ansys - Set to parameters: Damping Ratio = 0.0005, Elastic Modulus = 211, Density = 7850.
+Mon Feb 23 15:25:09 2026 - Ansys - Solved! Results are published in the home folder.
+Mon Feb 23 15:25:09 2026 - Ansys - Solving step #4.
+Mon Feb 23 15:25:10 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 225, Density = 7850.
+Mon Feb 23 15:25:18 2026 - Ansys - Solved! Results are published in the home folder.
+Mon Feb 23 15:25:18 2026 - Ansys - Solving step #5.
+Mon Feb 23 15:25:20 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 180, Density = 7850.
+Mon Feb 23 15:25:30 2026 - Ansys - Solved! Results are published in the home folder.
+Mon Feb 23 15:25:30 2026 - Ansys - Solving step #6.
+Mon Feb 23 15:25:31 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 211, Density = 7800.
+Mon Feb 23 15:25:39 2026 - Ansys - Solved! Results are published in the home folder.
+Mon Feb 23 15:25:39 2026 - Ansys - Solving step #7.
+Mon Feb 23 15:25:40 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 211, Density = 7900.
+Mon Feb 23 15:25:50 2026 - Ansys - Solved! Results are published in the home folder.
+Mon Feb 23 15:25:50 2026 - Ansys - I'm out. Comparator, it's all you...
+Mon Feb 23 15:28:16 2026 - Ansys - I'm awake and ready to analyze!
+Mon Feb 23 15:28:16 2026 - Ansys - Detecting a factorial design. Buckle up, this may take a while...
+Mon Feb 23 15:28:16 2026 - Ansys - Received step #1, beginning the analysis.
+Mon Feb 23 15:28:16 2026 - Ansys - Solving step #1.
+Mon Feb 23 15:28:18 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 211, Density = 7850.
+Mon Feb 23 15:31:30 2026 - Ansys - Solved! Results are published in the home folder.
+Mon Feb 23 15:31:30 2026 - Ansys - Solving step #2.
+Mon Feb 23 15:31:33 2026 - Ansys - Set to parameters: Damping Ratio = 0.0015, Elastic Modulus = 211, Density = 7850.
+Mon Feb 23 15:31:51 2026 - Ansys - Solved! Results are published in the home folder.
+Mon Feb 23 15:31:51 2026 - Ansys - Solving step #3.
+Mon Feb 23 15:31:51 2026 - Ansys - Set to parameters: Damping Ratio = 0.0005, Elastic Modulus = 211, Density = 7850.
+Mon Feb 23 15:32:23 2026 - Ansys - Solved! Results are published in the home folder.
+Mon Feb 23 15:32:23 2026 - Ansys - Solving step #4.
+Mon Feb 23 15:32:23 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 225, Density = 7850.
+Mon Feb 23 15:32:39 2026 - Ansys - Solved! Results are published in the home folder.
+Mon Feb 23 15:32:39 2026 - Ansys - Solving step #5.
+Mon Feb 23 15:32:42 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 180, Density = 7850.
+Mon Feb 23 15:32:58 2026 - Ansys - Solved! Results are published in the home folder.
+Mon Feb 23 15:32:58 2026 - Ansys - Solving step #6.
+Mon Feb 23 15:33:01 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 211, Density = 7800.
+Mon Feb 23 15:33:28 2026 - Ansys - Solved! Results are published in the home folder.
+Mon Feb 23 15:33:28 2026 - Ansys - Solving step #7.
+Mon Feb 23 15:33:31 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 211, Density = 7900.
+Mon Feb 23 15:34:23 2026 - Ansys - Solved! Results are published in the home folder.
+Mon Feb 23 15:34:23 2026 - Ansys - I'm out. Comparator, it's all you...
+Wed Feb 25 12:11:20 2026 - Ansys - I'm awake and ready to analyze!
+Wed Feb 25 12:11:20 2026 - Ansys - Detecting a factorial design. Buckle up, this may take a while...
+Wed Feb 25 12:11:20 2026 - Ansys - Received step #1, beginning the analysis.
+Wed Feb 25 12:11:20 2026 - Ansys - Solving step #1.
+Wed Feb 25 12:11:22 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 211, Density = 7850.
+Wed Feb 25 12:15:31 2026 - Ansys - Solved! Results are published in the home folder.
+Wed Feb 25 12:15:31 2026 - Ansys - Solving step #2.
+Wed Feb 25 12:15:32 2026 - Ansys - Set to parameters: Damping Ratio = 0.0015, Elastic Modulus = 211, Density = 7850.
+Wed Feb 25 12:15:50 2026 - Ansys - Solved! Results are published in the home folder.
+Wed Feb 25 12:15:50 2026 - Ansys - Solving step #3.
+Wed Feb 25 12:15:51 2026 - Ansys - Set to parameters: Damping Ratio = 0.0005, Elastic Modulus = 211, Density = 7850.
+Wed Feb 25 12:16:15 2026 - Ansys - Solved! Results are published in the home folder.
+Wed Feb 25 12:16:15 2026 - Ansys - Solving step #4.
+Wed Feb 25 12:16:15 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 225, Density = 7850.
+Wed Feb 25 12:16:35 2026 - Ansys - Solved! Results are published in the home folder.
+Wed Feb 25 12:16:35 2026 - Ansys - Solving step #5.
+Wed Feb 25 12:16:36 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 180, Density = 7850.
+Wed Feb 25 12:16:57 2026 - Ansys - Solved! Results are published in the home folder.
+Wed Feb 25 12:16:57 2026 - Ansys - Solving step #6.
+Wed Feb 25 12:16:59 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 211, Density = 7800.
+Wed Feb 25 12:17:23 2026 - Ansys - Solved! Results are published in the home folder.
+Wed Feb 25 12:17:23 2026 - Ansys - Solving step #7.
+Wed Feb 25 12:17:24 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 211, Density = 7900.
+Wed Feb 25 12:17:46 2026 - Ansys - Solved! Results are published in the home folder.
+Wed Feb 25 12:17:46 2026 - Ansys - I'm out. Comparator, it's all you...
+Wed Feb 25 12:18:14 2026 - Ansys - I'm awake and ready to analyze!
+Wed Feb 25 12:18:14 2026 - Ansys - Detecting a factorial design. Buckle up, this may take a while...
+Wed Feb 25 12:18:14 2026 - Ansys - Received step #1, beginning the analysis.
+Wed Feb 25 12:18:14 2026 - Ansys - Solving step #1.
+Wed Feb 25 12:18:15 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 211, Density = 7850.
+Wed Feb 25 12:20:51 2026 - Ansys - Solved! Results are published in the home folder.
+Wed Feb 25 12:20:51 2026 - Ansys - Solving step #2.
+Wed Feb 25 12:20:53 2026 - Ansys - Set to parameters: Damping Ratio = 0.0015, Elastic Modulus = 211, Density = 7850.
+Wed Feb 25 12:23:45 2026 - Ansys - Solved! Results are published in the home folder.
+Wed Feb 25 12:23:45 2026 - Ansys - Solving step #3.
+Wed Feb 25 12:23:45 2026 - Ansys - Set to parameters: Damping Ratio = 0.0005, Elastic Modulus = 211, Density = 7850.
+Wed Feb 25 12:26:36 2026 - Ansys - Solved! Results are published in the home folder.
+Wed Feb 25 12:26:36 2026 - Ansys - Solving step #4.
+Wed Feb 25 12:26:37 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 225, Density = 7850.
+Wed Feb 25 12:29:32 2026 - Ansys - Solved! Results are published in the home folder.
+Wed Feb 25 12:29:32 2026 - Ansys - Solving step #5.
+Wed Feb 25 12:29:34 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 180, Density = 7850.
+Wed Feb 25 12:32:24 2026 - Ansys - Solved! Results are published in the home folder.
+Wed Feb 25 12:32:24 2026 - Ansys - Solving step #6.
+Wed Feb 25 12:32:26 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 211, Density = 7800.
+Wed Feb 25 12:32:42 2026 - Ansys - Solved! Results are published in the home folder.
+Wed Feb 25 12:32:42 2026 - Ansys - Solving step #7.
+Wed Feb 25 12:32:43 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 211, Density = 7900.
+Wed Feb 25 12:34:39 2026 - Ansys - Solved! Results are published in the home folder.
+Wed Feb 25 12:34:39 2026 - Ansys - I'm out. Comparator, it's all you...
+Wed Feb 25 12:37:48 2026 - Ansys - I'm awake and ready to analyze!
+Wed Feb 25 12:37:48 2026 - Ansys - Detecting a factorial design. Buckle up, this may take a while...
+Wed Feb 25 12:37:48 2026 - Ansys - Received step #1, beginning the analysis.
+Wed Feb 25 12:37:48 2026 - Ansys - Solving step #1.
+Wed Feb 25 12:37:49 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 211, Density = 7850.
+Wed Feb 25 12:40:26 2026 - Ansys - Solved! Results are published in the home folder.
+Wed Feb 25 12:40:26 2026 - Ansys - Solving step #2.
+Wed Feb 25 12:40:28 2026 - Ansys - Set to parameters: Damping Ratio = 0.0015, Elastic Modulus = 211, Density = 7850.
+Wed Feb 25 12:43:19 2026 - Ansys - Solved! Results are published in the home folder.
+Wed Feb 25 12:43:19 2026 - Ansys - Solving step #3.
+Wed Feb 25 12:43:19 2026 - Ansys - Set to parameters: Damping Ratio = 0.0005, Elastic Modulus = 211, Density = 7850.
+Wed Feb 25 12:46:06 2026 - Ansys - Solved! Results are published in the home folder.
+Wed Feb 25 12:46:06 2026 - Ansys - Solving step #4.
+Wed Feb 25 12:46:07 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 225, Density = 7850.
+Wed Feb 25 12:48:52 2026 - Ansys - Solved! Results are published in the home folder.
+Wed Feb 25 12:48:52 2026 - Ansys - Solving step #5.
+Wed Feb 25 12:48:53 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 180, Density = 7850.
+Wed Feb 25 12:49:15 2026 - Ansys - Solved! Results are published in the home folder.
+Wed Feb 25 12:49:15 2026 - Ansys - Solving step #6.
+Wed Feb 25 12:49:16 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 211, Density = 7800.
+Wed Feb 25 12:49:32 2026 - Ansys - Solved! Results are published in the home folder.
+Wed Feb 25 12:49:32 2026 - Ansys - Solving step #7.
+Wed Feb 25 12:49:32 2026 - Ansys - Set to parameters: Damping Ratio = 0.001, Elastic Modulus = 211, Density = 7900.
+Wed Feb 25 12:49:51 2026 - Ansys - Solved! Results are published in the home folder.
+Wed Feb 25 12:49:51 2026 - Ansys - I'm out. Comparator, it's all you...
